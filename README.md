@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Amineh 👋
 
-<!--
-**aminehsakhaie/aminehsakhaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD researcher in Mathematics at the University of Lisbon, working in coding theory and cryptography.
 
-Here are some ideas to get you started:
+My research interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Coding Theory
+- Rank-Metric and Sum-Rank Codes
+- Minimal Sum-Rank Metric Codes
+- Code-Based Cryptography
+- Post-Quantum Cryptography
+
+## Technical Interests
+
+I'm currently developing my practical skills in:
+
+- Python
+- Rust
+- Git & GitHub
+- Cybersecurity
+- Network Security
+- Security Engineering
+
+## Current Focus
+
+🔐 Cryptography and Post-Quantum Cryptography  
+🧮 Coding Theory and Sum-Rank Metric Codes  
+🐍 Python for Security  
+🛡️ Cybersecurity and Security Engineering  
+
+## About This GitHub
+
+This GitHub documents my research, technical learning, and practical projects as I build a bridge between mathematics, cryptography, and cybersecurity.
+
+## Research
+
+PhD Researcher in Mathematics  
+University of Lisbon, Portugal
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/amineh-sakhaie-827929a7/)
